@@ -26,7 +26,7 @@ body {
 .left_head {
     color: #272727;
     font-family: Lato;
-    font-size: 45px;
+    font-size: 45px; 
     font-style: normal;
     font-weight: 800;
     line-height: normal;
@@ -69,7 +69,25 @@ height: 670px;
 
 
 
+.search
+{
+    height: 50vh;
+    width: 1400px;
+    margin-bottom: 100px;
+    background-image: url(/flowers/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#email{
+    width: 550px;
+    height: 50px;
+    border-radius: 10px;
+    border: 0px;
+    font-family: Lato;
+    padding-left: 30px;
 
+}
 
 
 
