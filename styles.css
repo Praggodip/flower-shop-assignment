@@ -158,13 +158,18 @@ height: 90px;
 
 .search
 {
-    height: 50vh;
+    height: 300px;
     width: 1400px;
     margin-bottom: 100px;
-    background-image: url(/flowers/Rectangle\ 9.png);
+    background-image: url('flowers/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 100px;
 }
 #email{
     width: 550px;
